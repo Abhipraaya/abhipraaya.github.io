@@ -11,10 +11,6 @@ body{
     font-size: 2.5vh;
 }
 
-main{
-    text-align: justify;
-}
-
 a:link, a:visited, a::after, a:hover{
     text-decoration: none;
     color: inherit;
